@@ -105,4 +105,4 @@ venv.bak/
 
 #vscode
 *.code-workspace
-
+.vsocde
